@@ -9,7 +9,7 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="assets/js/main.js"></script>
     <link rel="shortcut icon" href="/assets/img/favicon.png" type="image/x-icon">
-    <title>Login</title>
+    <title>T-Login</title>
 </head>
 <body>
     <main> 
