@@ -40,7 +40,9 @@
         </a>
         <?php } ?>
         <a href="enviar.php">
-        <button>enviar correo</button> 
+        <button class="useradmin" title="enviar correos">
+        <i class="far fa-envelope"></i>
+        </button> 
         </a>  
         <img src="assets/img/dom.png" alt="icono">
         <P><?php echo intval($bogota[3]); ?> ºC</P>
