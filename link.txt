@@ -1,0 +1,9 @@
+https://thetimezon.herokuapp.com/index.php
+
+usuario admin: 
+usuario: admin
+contraseña: admin
+
+usuario cliente:
+usuario: andrea
+contraseña: andrea

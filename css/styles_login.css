@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-image: url("../assets/img/nubesdos.jpg");
+}
+.container{
+    background-color: transparent;
+    border-radius: 5px;
+    height: 350px;
+    width: 800px;
+    margin: auto;
+    margin-top: 150px;
+}
+form{
+    border-right: 3px solid black;
+    min-width: 40%;
+    height: 240px;
+    margin: 25px;
+    margin-left: 80px;
+    margin-top: 57px;
+    padding: 5px;
+    padding-right: 55px;
+    float: left;
+}
+form label{
+    padding: 15px;
+    margin: 25px;
+}
+form input{
+    background-color: #fff;
+    border-radius: 0px 3px 3px 0px;
+    color: #000;
+    margin-bottom: 1em;
+    margin-left: 97px;
+    padding: 16px;
+    width: 200px;
+}
+form button{
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    background-color: #000000;
+    color: #eee;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    margin: 5px;
+    height: 30px;
+    float: right;
+}
+.registro{
+    position:absolute;;
+    border-radius: 3px;
+    background-color: #000000;
+    color: #eee;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    margin: 5px;
+    height: 30px;
+    float: right;
+    top: 408px;
+    left: 433px;
+}
+.registro > a{
+    color: white;
+}
+form button:hover{
+    background-color: yellow;
+    color: black;
+}
+.inputs{
+    margin: auto;
+    margin-top: 67px;
+}
+.logo{
+    width: 24%;
+    height: 166px;
+    margin: 25px;
+    margin-top:97px ;
+    float: left;
+}
+.logo > img{
+    width: 100%;
+}
