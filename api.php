@@ -70,4 +70,59 @@
         return $var;
     }
 
+    //ACA SE ENVUENTRA EL CODIGO PARA SACAR LA CIUDAD CON MENOS Y MAS TEMPERATURA
+
+    /*
+    $temperaturas = array($popayan[3],$barranquilla[3],$medellin[3],$bucaramanga[3],$valledupar[3]);
+    $ntemperaturas = array($popayan[0],$barranquilla[0],$medellin[0],$bucaramanga[0],$valledupar[0]);
+
+    $longitud = count($temperaturas);
+
+
+    for ($i=0; $i < $longitud ; $i++) { 
+        $arraytemp[] = $temperaturas[$i];
+        echo $temperaturas[$i];
+        echo $ntemperaturas[$i];
+        echo "<br>";
+    }
+
+    $min = min($arraytemp);
+    echo $min;
+    echo "<br>";
+    $max = max($arraytemp);
+    echo $max;
+    echo "<hr>";
+
+
+    $data = array(
+        0 => array(
+            'temperatura' => $popayan[3],
+            'nombre' => $popayan[0]
+        ),
+        1 => array(
+            'temperatura' => $barranquilla[3],
+            'nombre' => $barranquilla[0]
+        ),
+        2 => array(
+            'temperatura' => $medellin[3],
+            'nombre' => $medellin[0]
+        ),
+        3 => array(
+            'temperatura' => $bucaramanga[3],
+            'nombre' => $bucaramanga[0]
+        ),
+        4 => array(
+            'temperatura' => $valledupar[3],
+            'nombre' => $valledupar[0] 
+        )       
+    );
+
+    foreach ($data as $key => $value) {
+        $temperaa[] = $value['temperatura'];
+    }
+    echo max($temperaa);
+    echo "<br>";
+    echo min($temperaa);
+    echo "<hr>";
+    */
 ?>
