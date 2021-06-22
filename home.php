@@ -40,7 +40,7 @@
         </a>
         <?php } ?>
         <a href="enviar.php">
-        <button class="useradmin" title="enviar correos">
+        <button class="send" title="enviar correos">
         <i class="far fa-envelope"></i>
         </button> 
         </a>  

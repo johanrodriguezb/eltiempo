@@ -64,6 +64,22 @@ body{
     left:218px;
     cursor: pointer;
 }
+.send{
+    position: absolute;
+    color: white;
+    background-color: #2E337E;
+    border-radius: 50%;
+    font-size: 17px;
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+    padding: 15px;
+    line-height: 25px;
+    text-align: center;
+    top:1px;
+    left:264px;
+    cursor: pointer;
+}
 .close{
     position: absolute;
     color: white;
